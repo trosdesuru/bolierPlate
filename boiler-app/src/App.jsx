@@ -1,8 +1,9 @@
 import React from 'react'
 import './App.css'
 
-import Home from './pages/Home'
 import Header from './components/Header'
+import Home from './pages/Home'
+import Footer from './components/Footer'
 
 function App() {
   console.info('App -> call')
@@ -11,6 +12,7 @@ function App() {
     <div>
       <Header />
       <Home />
+      <Footer />
     </div>
   )
 }

@@ -4,8 +4,8 @@ function Header() {
     console.info('Header -> call')
 
     return (
-        <header className="p-4 bg-blue-500 text-white">
-            <h1>BoilerPlate React App</h1>
+        <header className="p-4 text-white">
+            <h1>This is the BoilerPlate React App | Header</h1>
         </header>
     )
 }
