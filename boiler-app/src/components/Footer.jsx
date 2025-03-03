@@ -4,8 +4,8 @@ function Footer() {
     console.info('Header -> call')
 
     return (
-        <header className="m-0 p-4 bg-purple-600 text-white">
-            <h1>This is the BoilerPlate React App | Footer</h1>
+        <header className="fixed bottom-0 left-0 right-0 p-4 bg-purple-600 text-white">
+            <h1>BoilerPlate React App | Footer</h1>
         </header>
     )
 }
