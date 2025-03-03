@@ -44,7 +44,7 @@ function Home() {
         <div className="p-4">
             <h1 className="text-left text-xl font-bold">Places</h1>
             {loading ? (
-                <p class='text-left'>Loading...</p>
+                <p className='text-left'>Loading...</p>
             ) : error ? (
                 <p className="text-red-500">Error: {error}</p>
             ) : (
