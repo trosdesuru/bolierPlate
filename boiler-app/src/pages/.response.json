@@ -1,0 +1,1230 @@
+{
+    "results": [
+        {
+            "fsq_id": "5c4714533ba767002caedd2b",
+            "categories": [
+                {
+                    "id": 13302,
+                    "name": "Mediterranean Restaurant",
+                    "short_name": "Mediterranean",
+                    "plural_name": "Mediterranean Restaurants",
+                    "icon": {
+                        "prefix": "https: //ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 179,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 41.387677,
+                    "longitude": 2.168101
+                },
+                "main": {
+                    "latitude": 41.387526,
+                    "longitude": 2.167989
+                },
+                "roof": {
+                    "latitude": 41.387526,
+                    "longitude": 2.167989
+                }
+            },
+            "link": "/v3/places/5c4714533ba767002caedd2b",
+            "location": {
+                "address": "Rambla Catalunya, 3",
+                "admin_region": "Cataluña",
+                "country": "ES",
+                "cross_street": "",
+                "formatted_address": "Rambla Catalunya, 3, 08007 Barcelona Catalunya",
+                "locality": "Barcelona",
+                "postcode": "08007",
+                "region": "Catalunya"
+            },
+            "name": "Honest Greens Plaça Catalunya",
+            "related_places": {},
+            "timezone": "Europe/Madrid"
+        },
+        {
+            "fsq_id": "4adcda4ef964a5203f4021e3",
+            "categories": [
+                {
+                    "id": 13049,
+                    "name": "Diner",
+                    "short_name": "Diner",
+                    "plural_name": "Diners",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13347,
+                    "name": "Tapas Restaurant",
+                    "short_name": "Tapas",
+                    "plural_name": "Tapas Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 348,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 41.388794,
+                    "longitude": 2.166799
+                },
+                "main": {
+                    "latitude": 41.388858,
+                    "longitude": 2.166857
+                },
+                "roof": {
+                    "latitude": 41.388858,
+                    "longitude": 2.166857
+                }
+            },
+            "link": "/v3/places/4adcda4ef964a5203f4021e3",
+            "location": {
+                "address": "Rambla de Catalunya, 18",
+                "admin_region": "Cataluña",
+                "country": "ES",
+                "cross_street": "Gran Vía de les Corts Catalanes",
+                "formatted_address": "Rambla de Catalunya, 18 (Gran Vía de les Corts Catalanes), 08007 Barcelona Catalunya",
+                "locality": "Barcelona",
+                "postcode": "08007",
+                "region": "Catalunya"
+            },
+            "name": "Ciutat Comtal",
+            "related_places": {},
+            "timezone": "Europe/Madrid"
+        },
+        {
+            "fsq_id": "4b71cd74f964a5204b5d2de3",
+            "categories": [
+                {
+                    "id": 17018,
+                    "name": "Bookstore",
+                    "short_name": "Bookstore",
+                    "plural_name": "Bookstores",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bookstore_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "LikelyOpen",
+            "distance": 391,
+            "geocodes": {
+                "main": {
+                    "latitude": 41.383572,
+                    "longitude": 2.168847
+                },
+                "roof": {
+                    "latitude": 41.383572,
+                    "longitude": 2.168847
+                }
+            },
+            "link": "/v3/places/4b71cd74f964a5204b5d2de3",
+            "location": {
+                "address": "Carrer D'Elisabets, 6",
+                "admin_region": "Cataluña",
+                "country": "ES",
+                "cross_street": "",
+                "formatted_address": "Carrer D'Elisabets, 6, 08001 Barcelona Catalunya",
+                "locality": "Barcelona",
+                "postcode": "08001",
+                "region": "Catalunya"
+            },
+            "name": "La Central del Raval",
+            "related_places": {
+                "children": [
+                    {
+                        "fsq_id": "5d20afcf7dc74200230ddc20",
+                        "categories": [
+                            {
+                                "id": 13046,
+                                "name": "Ice Cream Parlor",
+                                "short_name": "Ice Cream",
+                                "plural_name": "Ice Cream Parlors",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13065,
+                                "name": "Restaurant",
+                                "short_name": "Restaurant",
+                                "plural_name": "Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Natas"
+                    },
+                    {
+                        "fsq_id": "5cd80cf92bf29b002d5bd7ff",
+                        "categories": [
+                            {
+                                "id": 13034,
+                                "name": "Café",
+                                "short_name": "Café",
+                                "plural_name": "Cafés",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Barcentral"
+                    }
+                ]
+            },
+            "timezone": "Europe/Madrid"
+        },
+        {
+            "fsq_id": "4af1b973f964a52083e221e3",
+            "categories": [
+                {
+                    "id": 12082,
+                    "name": "Organization",
+                    "short_name": "Organization",
+                    "plural_name": "Organizations",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 442,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 41.387331,
+                    "longitude": 2.175087
+                },
+                "main": {
+                    "latitude": 41.38759,
+                    "longitude": 2.175354
+                },
+                "roof": {
+                    "latitude": 41.387574,
+                    "longitude": 2.17532
+                }
+            },
+            "link": "/v3/places/4af1b973f964a52083e221e3",
+            "location": {
+                "address": "Calle Palau de la Música 4-6",
+                "admin_region": "Cataluña",
+                "country": "ES",
+                "cross_street": "Sant Pere més Alt",
+                "formatted_address": "Calle Palau de la Música 4-6 (Sant Pere més Alt), 08003 Barcelona Catalunya",
+                "locality": "Barcelona",
+                "postcode": "08003",
+                "region": "Catalunya"
+            },
+            "name": "Palau de la Música Catalana",
+            "related_places": {
+                "children": [
+                    {
+                        "fsq_id": "51c2e6a1498e07baf2ce2a33",
+                        "categories": [
+                            {
+                                "id": 13034,
+                                "name": "Café",
+                                "short_name": "Café",
+                                "plural_name": "Cafés",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Cafè Palau"
+                    }
+                ]
+            },
+            "timezone": "Europe/Madrid"
+        },
+        {
+            "fsq_id": "52fafeb4498e411285ad33be",
+            "categories": [
+                {
+                    "id": 13003,
+                    "name": "Bar",
+                    "short_name": "Bar",
+                    "plural_name": "Bars",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13034,
+                    "name": "Café",
+                    "short_name": "Café",
+                    "plural_name": "Cafés",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13035,
+                    "name": "Coffee Shop",
+                    "short_name": "Coffee Shop",
+                    "plural_name": "Coffee Shops",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "LikelyOpen",
+            "distance": 625,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 41.38891,
+                    "longitude": 2.177123
+                },
+                "main": {
+                    "latitude": 41.388928,
+                    "longitude": 2.177136
+                },
+                "roof": {
+                    "latitude": 41.388928,
+                    "longitude": 2.177136
+                }
+            },
+            "link": "/v3/places/52fafeb4498e411285ad33be",
+            "location": {
+                "address": "Pasatge Sert, 12",
+                "admin_region": "Cataluña",
+                "country": "ES",
+                "cross_street": "C. de Trafalgar",
+                "formatted_address": "Pasatge Sert, 12 (C. de Trafalgar), 08003 Barcelona Catalunya",
+                "locality": "Barcelona",
+                "postcode": "08003",
+                "region": "Catalunya"
+            },
+            "name": "Nømad Coffee Lab & Shop",
+            "related_places": {
+                "children": []
+            },
+            "timezone": "Europe/Madrid"
+        },
+        {
+            "fsq_id": "55f56312498e910f2471f5e5",
+            "categories": [
+                {
+                    "id": 13039,
+                    "name": "Deli",
+                    "short_name": "Deli",
+                    "plural_name": "Delis",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13040,
+                    "name": "Dessert Shop",
+                    "short_name": "Desserts",
+                    "plural_name": "Dessert Shops",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 622,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 41.382669,
+                    "longitude": 2.174669
+                },
+                "main": {
+                    "latitude": 41.382644,
+                    "longitude": 2.174628
+                },
+                "roof": {
+                    "latitude": 41.382644,
+                    "longitude": 2.174628
+                }
+            },
+            "link": "/v3/places/55f56312498e910f2471f5e5",
+            "location": {
+                "address": "Calle Dels Banys Nous, 17",
+                "admin_region": "Cataluña",
+                "country": "ES",
+                "cross_street": "",
+                "formatted_address": "Calle Dels Banys Nous, 17, 08002 Barcelona Catalunya",
+                "locality": "Barcelona",
+                "postcode": "08002",
+                "region": "Catalunya"
+            },
+            "name": "Be Chocolat",
+            "related_places": {},
+            "timezone": "Europe/Madrid"
+        },
+        {
+            "fsq_id": "4b3bcb26f964a520497b25e3",
+            "categories": [
+                {
+                    "id": 13039,
+                    "name": "Deli",
+                    "short_name": "Deli",
+                    "plural_name": "Delis",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13046,
+                    "name": "Ice Cream Parlor",
+                    "short_name": "Ice Cream",
+                    "plural_name": "Ice Cream Parlors",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "short_name": "Fast Food",
+                    "plural_name": "Fast Food Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "LikelyOpen",
+            "distance": 733,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 41.38316,
+                    "longitude": 2.177329
+                },
+                "main": {
+                    "latitude": 41.383184,
+                    "longitude": 2.177312
+                },
+                "roof": {
+                    "latitude": 41.383184,
+                    "longitude": 2.177312
+                }
+            },
+            "link": "/v3/places/4b3bcb26f964a520497b25e3",
+            "location": {
+                "address": "Llibreteria, 7",
+                "admin_region": "Cataluña",
+                "country": "ES",
+                "formatted_address": "Llibreteria, 7, 08002 Barcelona Catalunya",
+                "locality": "Barcelona",
+                "postcode": "08002",
+                "region": "Catalunya"
+            },
+            "name": "Gelaaati Di Marco",
+            "related_places": {},
+            "timezone": "Europe/Madrid"
+        },
+        {
+            "fsq_id": "4d94d66a58caa1434728b525",
+            "categories": [
+                {
+                    "id": 13025,
+                    "name": "Wine Bar",
+                    "short_name": "Wine Bar",
+                    "plural_name": "Wine Bars",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "Unsure",
+            "distance": 893,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 41.379961,
+                    "longitude": 2.164941
+                },
+                "main": {
+                    "latitude": 41.379913,
+                    "longitude": 2.164884
+                },
+                "roof": {
+                    "latitude": 41.379913,
+                    "longitude": 2.164884
+                }
+            },
+            "link": "/v3/places/4d94d66a58caa1434728b525",
+            "location": {
+                "address": "Calle Bisbe Laguarda, 3",
+                "admin_region": "Cataluña",
+                "country": "ES",
+                "cross_street": "",
+                "formatted_address": "Calle Bisbe Laguarda, 3, 08001 Barcelona Catalunya",
+                "locality": "Barcelona",
+                "postcode": "08001",
+                "region": "Catalunya"
+            },
+            "name": "Bodega Armando",
+            "related_places": {},
+            "timezone": "Europe/Madrid"
+        },
+        {
+            "fsq_id": "4b755d81f964a5206d082ee3",
+            "categories": [
+                {
+                    "id": 19014,
+                    "name": "Hotel",
+                    "short_name": "Hotel",
+                    "plural_name": "Hotels",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 876,
+            "geocodes": {
+                "main": {
+                    "latitude": 41.380279,
+                    "longitude": 2.175613
+                },
+                "roof": {
+                    "latitude": 41.380279,
+                    "longitude": 2.175613
+                }
+            },
+            "link": "/v3/places/4b755d81f964a5206d082ee3",
+            "location": {
+                "address": "Plaça Reial, 1",
+                "address_extended": "Bajo",
+                "admin_region": "Cataluña",
+                "country": "ES",
+                "formatted_address": "Plaça Reial, 1, 08002 Barcelona Catalunya",
+                "locality": "Barcelona",
+                "postcode": "08002",
+                "region": "Catalunya"
+            },
+            "name": "Plaça Reial",
+            "related_places": {
+                "children": [
+                    {
+                        "fsq_id": "4b8c3d84f964a520f6c532e3",
+                        "categories": [
+                            {
+                                "id": 13236,
+                                "name": "Italian Restaurant",
+                                "short_name": "Italian",
+                                "plural_name": "Italian Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Rossini"
+                    },
+                    {
+                        "fsq_id": "4b6d62f3f964a52038742ce3",
+                        "categories": [
+                            {
+                                "id": 13338,
+                                "name": "Seafood Restaurant",
+                                "short_name": "Seafood",
+                                "plural_name": "Seafood Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13345,
+                                "name": "Spanish Restaurant",
+                                "short_name": "Spanish",
+                                "plural_name": "Spanish Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "La Gallega Tobogán"
+                    },
+                    {
+                        "fsq_id": "6260419db2d55d47c9362096",
+                        "categories": [
+                            {
+                                "id": 13236,
+                                "name": "Italian Restaurant",
+                                "short_name": "Italian",
+                                "plural_name": "Italian Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Ciao Ciao"
+                    },
+                    {
+                        "fsq_id": "4c016973b45676b00725e180",
+                        "categories": [
+                            {
+                                "id": 13003,
+                                "name": "Bar",
+                                "short_name": "Bar",
+                                "plural_name": "Bars",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13029,
+                                "name": "Brewery",
+                                "short_name": "Brewery",
+                                "plural_name": "Breweries",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/brewery_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13347,
+                                "name": "Tapas Restaurant",
+                                "short_name": "Tapas",
+                                "plural_name": "Tapas Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Cerveceria Canarias"
+                    },
+                    {
+                        "fsq_id": "62d9419879bc0a70c984523b",
+                        "categories": [
+                            {
+                                "id": 13003,
+                                "name": "Bar",
+                                "short_name": "Bar",
+                                "plural_name": "Bars",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Bar Tomate"
+                    },
+                    {
+                        "fsq_id": "4adcda4ff964a520f64021e3",
+                        "categories": [
+                            {
+                                "id": 10032,
+                                "name": "Night Club",
+                                "short_name": "Night Club",
+                                "plural_name": "Night Clubs",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13065,
+                                "name": "Restaurant",
+                                "short_name": "Restaurant",
+                                "plural_name": "Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Karma"
+                    },
+                    {
+                        "fsq_id": "4adcda4ef964a520484021e3",
+                        "categories": [
+                            {
+                                "id": 13009,
+                                "name": "Cocktail Bar",
+                                "short_name": "Cocktail",
+                                "plural_name": "Cocktail Bars",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13347,
+                                "name": "Tapas Restaurant",
+                                "short_name": "Tapas",
+                                "plural_name": "Tapas Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Glaciar"
+                    },
+                    {
+                        "fsq_id": "4d58cbfd3281b1f7e405b42f",
+                        "categories": [
+                            {
+                                "id": 19013,
+                                "name": "Hostel",
+                                "short_name": "Hostel",
+                                "plural_name": "Hostels",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hostel_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 19014,
+                                "name": "Hotel",
+                                "short_name": "Hotel",
+                                "plural_name": "Hotels",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Pension Villanueva"
+                    },
+                    {
+                        "fsq_id": "4adcda4bf964a520623f21e3",
+                        "categories": [
+                            {
+                                "id": 19013,
+                                "name": "Hostel",
+                                "short_name": "Hostel",
+                                "plural_name": "Hostels",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hostel_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 19014,
+                                "name": "Hotel",
+                                "short_name": "Hotel",
+                                "plural_name": "Hotels",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Kabul Backpackers Hostel"
+                    },
+                    {
+                        "fsq_id": "5d4481721caa1600070ab607",
+                        "categories": [
+                            {
+                                "id": 13034,
+                                "name": "Café",
+                                "short_name": "Café",
+                                "plural_name": "Cafés",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13065,
+                                "name": "Restaurant",
+                                "short_name": "Restaurant",
+                                "plural_name": "Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Expat Cafe"
+                    },
+                    {
+                        "fsq_id": "4c30f3b6a0ced13a24ef126e",
+                        "categories": [
+                            {
+                                "id": 13003,
+                                "name": "Bar",
+                                "short_name": "Bar",
+                                "plural_name": "Bars",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13345,
+                                "name": "Spanish Restaurant",
+                                "short_name": "Spanish",
+                                "plural_name": "Spanish Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Colon Cerveseria"
+                    },
+                    {
+                        "fsq_id": "4adcda4ff964a520ac4021e3",
+                        "categories": [
+                            {
+                                "id": 13021,
+                                "name": "Speakeasy",
+                                "short_name": "Speakeasy",
+                                "plural_name": "Speakeasies",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/secretbar_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 10040,
+                                "name": "Jazz and Blues Venue",
+                                "short_name": "Jazz Club",
+                                "plural_name": "Jazz and Blues Venues",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_jazzclub_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Barcelona Pipa Club"
+                    },
+                    {
+                        "fsq_id": "4f3ae93ae4b0d6152eb60363",
+                        "categories": [
+                            {
+                                "id": 13009,
+                                "name": "Cocktail Bar",
+                                "short_name": "Cocktail",
+                                "plural_name": "Cocktail Bars",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Santa Mónica"
+                    },
+                    {
+                        "fsq_id": "4adcda4ff964a520ef4021e3",
+                        "categories": [
+                            {
+                                "id": 10037,
+                                "name": "Concert Hall",
+                                "short_name": "Concert Hall",
+                                "plural_name": "Concert Halls",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 10040,
+                                "name": "Jazz and Blues Venue",
+                                "short_name": "Jazz Club",
+                                "plural_name": "Jazz and Blues Venues",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_jazzclub_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13065,
+                                "name": "Restaurant",
+                                "short_name": "Restaurant",
+                                "plural_name": "Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Los Tarantos"
+                    },
+                    {
+                        "fsq_id": "4adcda4ff964a520e04021e3",
+                        "categories": [
+                            {
+                                "id": 10037,
+                                "name": "Concert Hall",
+                                "short_name": "Concert Hall",
+                                "plural_name": "Concert Halls",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 10039,
+                                "name": "Music Venue",
+                                "short_name": "Music Venue",
+                                "plural_name": "Music Venues",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13003,
+                                "name": "Bar",
+                                "short_name": "Bar",
+                                "plural_name": "Bars",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Sidecar"
+                    },
+                    {
+                        "fsq_id": "60e0723a58791a0f26cce6d6",
+                        "categories": [
+                            {
+                                "id": 13065,
+                                "name": "Restaurant",
+                                "short_name": "Restaurant",
+                                "plural_name": "Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "GreenCo"
+                    },
+                    {
+                        "fsq_id": "4c707301d274b60ca8ddd90d",
+                        "categories": [
+                            {
+                                "id": 13009,
+                                "name": "Cocktail Bar",
+                                "short_name": "Cocktail",
+                                "plural_name": "Cocktail Bars",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13065,
+                                "name": "Restaurant",
+                                "short_name": "Restaurant",
+                                "plural_name": "Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Rei de Copes"
+                    },
+                    {
+                        "fsq_id": "5bb8eff512c8f0002c3e93e8",
+                        "categories": [
+                            {
+                                "id": 16020,
+                                "name": "Historic and Protected Site",
+                                "short_name": "Historic and Protected Site",
+                                "plural_name": "Historic and Protected Sites",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Gaudi Lamp"
+                    },
+                    {
+                        "fsq_id": "4adcda54f964a520ce4221e3",
+                        "categories": [
+                            {
+                                "id": 13302,
+                                "name": "Mediterranean Restaurant",
+                                "short_name": "Mediterranean",
+                                "plural_name": "Mediterranean Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13338,
+                                "name": "Seafood Restaurant",
+                                "short_name": "Seafood",
+                                "plural_name": "Seafood Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13347,
+                                "name": "Tapas Restaurant",
+                                "short_name": "Tapas",
+                                "plural_name": "Tapas Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Les Quinze Nits"
+                    },
+                    {
+                        "fsq_id": "4b9ac3baf964a52085d335e3",
+                        "categories": [
+                            {
+                                "id": 19014,
+                                "name": "Hotel",
+                                "short_name": "Hotel",
+                                "plural_name": "Hotels",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Roma Reial"
+                    },
+                    {
+                        "fsq_id": "4d544142dcb1a1438dc4bcbf",
+                        "categories": [
+                            {
+                                "id": 10004,
+                                "name": "Art Gallery",
+                                "short_name": "Art Gallery",
+                                "plural_name": "Art Galleries",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Fundació Setba"
+                    },
+                    {
+                        "fsq_id": "4f3c4d2fe4b0fc2b1eb47d3c",
+                        "categories": [
+                            {
+                                "id": 19014,
+                                "name": "Hotel",
+                                "short_name": "Hotel",
+                                "plural_name": "Hotels",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Do"
+                    },
+                    {
+                        "fsq_id": "4de8fc0e88774aa92cacbd14",
+                        "categories": [
+                            {
+                                "id": 13034,
+                                "name": "Café",
+                                "short_name": "Café",
+                                "plural_name": "Cafés",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13035,
+                                "name": "Coffee Shop",
+                                "short_name": "Coffee Shop",
+                                "plural_name": "Coffee Shops",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13065,
+                                "name": "Restaurant",
+                                "short_name": "Restaurant",
+                                "plural_name": "Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Artisa Barcelona"
+                    },
+                    {
+                        "fsq_id": "4adcda4ff964a520d94021e3",
+                        "categories": [
+                            {
+                                "id": 10037,
+                                "name": "Concert Hall",
+                                "short_name": "Concert Hall",
+                                "plural_name": "Concert Halls",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 10040,
+                                "name": "Jazz and Blues Venue",
+                                "short_name": "Jazz Club",
+                                "plural_name": "Jazz and Blues Venues",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_jazzclub_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13065,
+                                "name": "Restaurant",
+                                "short_name": "Restaurant",
+                                "plural_name": "Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Jamboree"
+                    },
+                    {
+                        "fsq_id": "4dc1bc32d22dc3fc30ee5594",
+                        "categories": [
+                            {
+                                "id": 13302,
+                                "name": "Mediterranean Restaurant",
+                                "short_name": "Mediterranean",
+                                "plural_name": "Mediterranean Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13338,
+                                "name": "Seafood Restaurant",
+                                "short_name": "Seafood",
+                                "plural_name": "Seafood Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                                    "suffix": ".png"
+                                }
+                            },
+                            {
+                                "id": 13345,
+                                "name": "Spanish Restaurant",
+                                "short_name": "Spanish",
+                                "plural_name": "Spanish Restaurants",
+                                "icon": {
+                                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+                                    "suffix": ".png"
+                                }
+                            }
+                        ],
+                        "name": "Ambos Mundos"
+                    }
+                ]
+            },
+            "timezone": "Europe/Madrid"
+        },
+        {
+            "fsq_id": "4c88d9e510523704e797c3f1",
+            "categories": [
+                {
+                    "id": 13003,
+                    "name": "Bar",
+                    "short_name": "Bar",
+                    "plural_name": "Bars",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13347,
+                    "name": "Tapas Restaurant",
+                    "short_name": "Tapas",
+                    "plural_name": "Tapas Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "VeryLikelyOpen",
+            "distance": 906,
+            "geocodes": {
+                "main": {
+                    "latitude": 41.379099,
+                    "longitude": 2.173131
+                },
+                "roof": {
+                    "latitude": 41.379099,
+                    "longitude": 2.173131
+                }
+            },
+            "link": "/v3/places/4c88d9e510523704e797c3f1",
+            "location": {
+                "address": "Unió, 17",
+                "admin_region": "Cataluña",
+                "country": "ES",
+                "formatted_address": "Unió, 17, 08001 Barcelona Catalunya",
+                "locality": "Barcelona",
+                "postcode": "08001",
+                "region": "Catalunya"
+            },
+            "name": "Bar Cañete",
+            "related_places": {},
+            "timezone": "Europe/Madrid"
+        }
+    ],
+    "context": {
+        "geo_bounds": {
+            "circle": {
+                "center": {
+                    "latitude": 41.387,
+                    "longitude": 2.1701
+                },
+                "radius": 22000
+            }
+        }
+    }
+}
