@@ -114,7 +114,7 @@ Si deseas mejorar este proyecto, sigue estos pasos:
 
 ## Licencia 📝
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE.txt) para más detalles.
 
 ---
 
