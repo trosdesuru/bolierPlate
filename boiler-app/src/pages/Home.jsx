@@ -1,18 +1,19 @@
 import React, { useEffect, useState } from 'react'
 
 function Home() {
-    console.info('Home -> call')
+    // console.info('Home -> call')
 
     const [places, setPlaces] = useState([])
     const [error, setError] = useState(null)
     const [loading, setLoading] = useState(true)
 
     useEffect(() => {
+        const API_KEY = import.meta.env.VITE_APP_FOURSQUARE_API_KEY
         const options = {
             method: 'GET',
             headers: {
                 accept: 'application/json',
-                Authorization: process.env.REACT_APP_FOURSQUARE_API_KEY
+                Authorization: API_KEY
             }
         }
 
@@ -44,7 +45,7 @@ function Home() {
         <div className="p-4">
             <h1 className="mt-6 text-left text-xl font-bold">Places</h1>
             {loading ? (
-                <p className='text-left'>Loading...</p>
+                <p className='text-4xlfont-bold text-left'>Cargando localizaciones...</p>
             ) : error ? (
                 <p className="text-red-500">Error: {error}</p>
             ) : (
@@ -63,7 +64,7 @@ function Home() {
                 </ul>
             )}
         </div>
-    );
+    )
 }
 
 export default Home
