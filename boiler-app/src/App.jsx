@@ -6,7 +6,7 @@ import Home from './pages/Home'
 import Footer from './components/Footer'
 
 function App() {
-  console.info('App -> call')
+  // console.info('App -> call')
 
   return (
     <div>
